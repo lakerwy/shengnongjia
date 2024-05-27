@@ -1,10 +1,3 @@
-/*
- * @Author: 任继民
- * @Date: 2021-03-02 17:05:26
- * @LastEditors: 任继民
- * @LastEditTime: 2021-03-03 11:04:04
- * @Description:
- */
 import * as echarts from "echarts";
 /**
  *
